@@ -11,6 +11,6 @@ In this project we're using the [React Testing Library (RTL)](https://testing-li
 ```bash
 npm test
 ```
-# Requirement to run the project locally
+# Requirements to run locally
 
 Install Node.js and React.
