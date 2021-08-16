@@ -4,7 +4,7 @@
 # About
 This project is an assingment from the web development bootcamp I attend.
 
-# Run tests
+## Run tests
 
 In this project we're using the [React Testing Library (RTL)](https://testing-library.com/docs/react-testing-library/intro) for tests.
 
